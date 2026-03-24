@@ -4,7 +4,7 @@ footer.innerHTML =
     <footer id="footer">
     <div class="phone-number">
         <div class="email-text">Phone: </div>
-        <a href="tel: +44 22516273"> +91 4422516273</a>
+        <a href="tel: +44 22516273"> +91 4422516280</a>
         <div class="social-icons">
             <div class="icon">
                 <a href="https://www.linkedin.com/in/ngnlab-anna-university-544a4b235/"><img src="../assets/img/logos/linkedin.svg" alt=""></a>
