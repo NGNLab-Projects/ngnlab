@@ -1,4 +1,33 @@
+    
+      {
+        "img": "./assets/img/people/thamodharan.jpeg",
+        "name": "Thamodharan Arumugam",
+        "domainWorked": "MIoT",
+        "domain": "MIoT, Deep Learning",
+        "facebook": "#",
+        "twitter": "#",
+        "linkedin": "https://www.linkedin.com/in/thamodharan-arumugam-05881341/",
+        "mail": "thamodharan@gmail.com",
+        "batch": "2021-2025",
+        "currentPosition": "PhD Scholar",
+        "year": "alumni"
+    }, 
+
+{
+        "img": "./assets/img/people/rajalakshmis.jpeg",
+        "name": "Rajalakshmi S",
+        "domain": "Networks",
+        "domainWorked": "Networks",
+        "facebook": "#",
+        "twitter": "#",
+        "linkedin": "https://www.linkedin.com/in/rajalakshmi20/",
+        "mail": "rajalakshmi.sarangan20@gmail.com",
+        "batch": "PG: 2024-2026",
+        "currentPosition": "PG - Research Intern",
+        "year": "present"
+    },
     {
+        
         "img": "./assets/img/people/Niveditha.jpg",
         "name": "Niveditha Girivel",
         "domain": "AV",
@@ -10,6 +39,7 @@
         "batch": "UG: 2021-2025",
         "currentPosition": "UG - Research Intern",
         "year": "alumni"
+  
     },
 {
         "img": "./assets/img/people/Shyamala.jpg",
