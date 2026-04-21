@@ -1,4 +1,13 @@
 [
+     {
+    "title": "Graph Attention-Driven Distributional Deep Reinforcement Learning for Collaborative Multi-AAV Navigation",
+    "author": "Selvam Essaky, Gunasekaran Raja, Harun Siljak",
+    "conference": " IEEE Transactions on Vehicular Technology (Accepted)",
+    "doi": "#",
+    "year": "2026",
+    "domain": ["UAV"],
+    "selective": true   
+    },  
     {
     "title": "A Hybrid Intelligent Delay-Aware Active Queue Management Framework for 6G Communications",
     "author": "Gunasekaran Raja, Karthikeyan Arunachalam, Ganesh Veeramani, Ananyapriya Punugu Venkata, Dakshina Sundari Sethu, Priyadharshani Periyasamy, Subhasini Paulpandi",
@@ -17,6 +26,15 @@
     "domain": ["UAV"],
     "selective": true   
     },  
+    {
+    "title": "TRIP-B5G: Traffic classification and Resource allocation using Intelligent PPO in B5G O-RAN",
+    "author": "Gunasekaran Raja, Sanjeev A, Krithika Ravishankar, Karthikeyan Arunachalam",
+    "conference": "IEEE CCNC 2026,  Consumer Communications and Networking Conference, Las Vegas, USA, January 9-12, 2026.",
+    "doi": "#",
+    "year": "2026",
+    "domain": ["Networks"],
+    "selective": true   
+    },
     {
     "title": "PQAKA: Post Quantum Authentication and Key Agreement Protocol for Intelligent Internet of Vehicles over 5G",
     "author": "Gunasekaran Raja, Sudhakar Theerthagiri, Kathiroli Raja, Janani Alagar Ramanujam, Tejesshree Sadhasivam, Priyadarshni Vasudevan, Paventhan Arumugam, Sunder Ali Khowaja, Kapal Dev",
@@ -95,15 +113,7 @@
         "domain": ["UAV"],
         "selective": true
     },    
-     {
-    "title": "TRIP-B5G: Traffic classification and Resource allocation using Intelligent PPO in B5G O-RAN",
-    "author": "Gunasekaran Raja, Sanjeev A, Krithika Ravishankar, Karthikeyan Arunachalam",
-    "conference": "IEEE CCNC 2026,  Consumer Communications and Networking Conference, Las Vegas, USA, January 9-12, 2026.",
-    "doi": "#",
-    "year": "2025",
-    "domain": ["Networks"],
-    "selective": true   
-    },
+     
      {
     "title": " Enhancing Smartphone-Based IR-UWB Radar Performance through Cognitive Adaptability",
     "author": "Jamsheed Manja Ppallan, Prajwal Ranjan, Sakshi Badiger, Madhan Raj Kanagarathinam, Qiang Xie, Jongmu Choi, Sukhdeep Singh, Gunasekaran Raja,  Sunder Ali Khowaja, Kapal Dev",
