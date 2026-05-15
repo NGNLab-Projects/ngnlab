@@ -30,8 +30,8 @@
     {
     "title": "TRIP-B5G: Traffic classification and Resource allocation using Intelligent PPO in B5G O-RAN",
     "author": "Gunasekaran Raja, Sanjeev A, Krithika Ravishankar, Karthikeyan Arunachalam",
-    "conference": "IEEE CCNC 2026,  Consumer Communications and Networking Conference, Las Vegas, USA, January 9-12, 2026., DOI: 10.1109/CCNC65079.2026.11366373",
-    "doi": "#",
+    "conference": "IEEE CCNC 2026,  Consumer Communications and Networking Conference, Las Vegas, USA, January 9-12, 2026.",
+    "doi": "https://doi.org/10.1109/CCNC65079.2026.11366373",
     "year": "2026",
     "domain": ["Networks"],
     "selective": true   
@@ -40,7 +40,7 @@
     "title": "PQAKA: Post Quantum Authentication and Key Agreement Protocol for Intelligent Internet of Vehicles over 5G",
     "author": "Gunasekaran Raja, Sudhakar Theerthagiri, Kathiroli Raja, Janani Alagar Ramanujam, Tejesshree Sadhasivam, Priyadarshni Vasudevan, Paventhan Arumugam, Sunder Ali Khowaja, Kapal Dev",
     "conference": "IEEE Open Journal of the Communications Society, DOI 10.1109/OJCOMS.2025.3643607.",
-    "doi": "#",
+    "doi": "https://doi.org/10.1109/OJCOMS.2025.3643607",
     "year": "2025",
     "domain": ["Quantum","AV"],
     "selective": true   
@@ -49,7 +49,7 @@
     "title": "RescueNav: AI-powered UAV Trajectory Planning with LoRa Connectivity for IoT-based Disaster Communications",
     "author": "Gunasekaran Raja, Mugundh Jambukeswaran Bhooma, Selva Ragul Kumar, Kapal Dev",
     "conference": "IEEE Internet of Things Journal, DOI: 10.1109/JIOT.2025.3644155",
-    "doi": "#",
+    "doi": "https://doi.org/10.1109/JIOT.2025.3644155",
     "year": "2025",
     "domain": ["UAV"],
     "selective": true   
@@ -58,8 +58,8 @@
      {
     "title": " WAPPOS: A Distributed Learning-Based Off-Board Path Planning System for UAV-Assisted Emergency Networks",
     "author": "Gunasekaran Raja, Pronoy Kundu, Sanjaykumar Vinayagam,  Fowzaan Rasheed, Sunder Ali Khowaja,  Kapal Dev",
-    "conference": " IEEE Internet of Things Journal, vol. 12, issue 21, pp. 44282-44289, Nov. 2025., DOI: 10.1109/JIOT.2025.3599991",
-    "doi": "#",
+    "conference": " IEEE Internet of Things Journal, vol. 12, issue 21, pp. 44282-44289, Nov. 2025.",
+    "doi": "https://doi.org/10.1109/JIOT.2025.3599991",
     "year": "2025",
     "domain": ["UAV"],
     "selective": true   
@@ -68,8 +68,8 @@
     {
     "title": "ARReSVG: Intelligent Multi-UAV Navigation in Partially Observable Spaces Using Adaptive Deep Reinforcement Learning Approach",
     "author": "Selvam Essaky, Gunasekaran Raja, Kapal Dev, Dusit Niyato",
-    "conference": " IEEE Transactions on Vehicular Technology, vol. 74, issue 10, pp. 15429-15440, Oct. 2025., DOI: 10.1109/TVT.2025.3573898",
-    "doi": "#",
+    "conference": " IEEE Transactions on Vehicular Technology, vol. 74, issue 10, pp. 15429-15440, Oct. 2025.",
+    "doi": "https://doi.org/10.1109/TVT.2025.3573898",
     "year": "2025",
     "domain": ["UAV"],
     "selective": true   
@@ -78,8 +78,8 @@
     {
     "title": "DRL-aided Sensor Attack Detection and Mitigation for Autonomous Vehicle Platooning in 5G-V2X",
     "author": "Mubeena Begum, Gunasekaran Raja, Ayon Chakraborty",
-    "conference": "IEEE Transactions on Vehicular Technology, ​​vol. 74, issue 10, pp. 15120-15131, Oct. 2025., DOI: 10.1109/TVT.2025.3569660",
-    "doi": "#",
+    "conference": "IEEE Transactions on Vehicular Technology, ​​vol. 74, issue 10, pp. 15120-15131, Oct. 2025.",
+    "doi": "https://doi.org/10.1109/TVT.2025.3569660",
     "year": "2025",
     "domain": ["AV"],
     "selective": true   
@@ -88,8 +88,8 @@
     {
     "title": "Intuitive and Privacy-Preserving Traffic Light Control System for Autonomous Vehicles",
     "author": "Gunasekaran Raja,Lewis Nkenyereye,Ponnada Srividya,Thilaksurya Balachandar,Sai Ganesh Senthivel,Libin K Mathew,Kapal Dev",
-    "conference": "IEEE Internet of Things Journal, vol.12,no.6,pp.6563-6572,15 Mar 2025., DOI: 10.1109/JIOT.2024.3491973",
-    "doi": "#",
+    "conference": "IEEE Internet of Things Journal, vol.12,no.6,pp.6563-6572,15 Mar 2025.",
+    "doi": "https://doi.org/10.1109/JIOT.2024.3491973",
     "year": "2025",
     "domain": ["AV"],
     "selective": true   
@@ -99,7 +99,7 @@
     "title": "Emergency Vehicle Navigation in Connected Autonomous Systems using Enhanced Traffic Management System",
     "author": "Gunasekaran Raja, Sudha Anbalagan, Sugeerthi Gurumoorthy, Darshini Jegathesan, Niveditha Subramanian Girivel, Varsha Mani Shanmuga Sundaram, Sunder Ali Khowaja, Kapal Dev",
     "conference": "IEEE Internet of Things Journal, DOI 10.1109/JIOT.2025.3545424",
-    "doi": "#",
+    "doi": "https://doi.org/10.1109/JIOT.2025.3545424",
     "year": "2025",
     "domain": ["AV"],
     "selective": true   
@@ -108,8 +108,8 @@
     {
         "title": "An Efficient 6G Federated Learning-enabled Energy-Efficient Scheme for UAV Deployment",
         "author": "Kathiroli Raja, Kottilingam Kottursamy, Vishal Ravichandran, Sivaganesh Balaganesh, Kapal Dev, Lewis Nkenyereye, Gunasekaran Raja",
-        "conference": "IEEE Transactions on Vehicular Technology, vol. 74, issue 2, pp. 2057-2066, Feb. 2025., DOI: 10.1109/TVT.2024.3390226",
-        "doi": "#",
+        "conference": "IEEE Transactions on Vehicular Technology, vol. 74, issue 2, pp. 2057-2066, Feb. 2025.",
+        "doi": "https://doi.org/10.1109/TVT.2024.3390226",
         "year": "2025",
         "domain": ["UAV"],
         "selective": true
@@ -118,8 +118,8 @@
      {
     "title": " Enhancing Smartphone-Based IR-UWB Radar Performance through Cognitive Adaptability",
     "author": "Jamsheed Manja Ppallan, Prajwal Ranjan, Sakshi Badiger, Madhan Raj Kanagarathinam, Qiang Xie, Jongmu Choi, Sukhdeep Singh, Gunasekaran Raja,  Sunder Ali Khowaja, Kapal Dev",
-    "conference": " IEEE GLOBECOM 2025 Global Communications Conference, Taipei, Taiwan, December 8-12,  2025.,  DOI: 10.1109/GLOBECOM59602.2025.11432630",
-    "doi": "#",
+    "conference": " IEEE GLOBECOM 2025 Global Communications Conference, Taipei, Taiwan, December 8-12,  2025.",
+    "doi": "https://doi.org/10.1109/GLOBECOM59602.2025.11432630",
     "year": "2025",
     "domain": ["MIoT"],
     "selective": true   
@@ -127,8 +127,8 @@
       {
     "title": " HyQCAN: A Quantum-Classical Synergy for Secure and Low-Latency Emergency Communication in Vehicular Ad Hoc Networks",
     "author": "Gunasekaran Raj, Sudhakar Theerthagiri, Priyadarshni Vasudevan, Jeyadev Needhidevan, Sunder Ali Khowaja, Keshav Singh, Kapal Dev",
-    "conference": " IEEE GLOBECOM 2025 Global Communications Conference, Taipei, Taiwan, December 8-12,  2025., DOI: 10.1109/GLOBECOM59602.2025.11431673",
-    "doi": "#",
+    "conference": " IEEE GLOBECOM 2025 Global Communications Conference, Taipei, Taiwan, December 8-12,  2025.",
+    "doi": "https://doi.org/10.1109/GLOBECOM59602.2025.11431673",
     "year": "2025",
     "domain": ["Quantum", "AV"],
     "selective": true   
@@ -137,8 +137,8 @@
     {
     "title": "Identity-Based Secure End-to-End Quantum-Safe MQTT Communication Using Ring-LWE",
     "author": "Gunasekaran Raja, Sudhakar Theerthagiri, Santhosh Kumar T, Sangeetha Ramachandran, Nandini Babu",
-    "conference": " IEEE PKIA 2025 International Conference on Public Key Infrastructure and its Applications,  Bangalore, India, September 5-6, 2025., DOI: 10.1109/PKIA67529.2025.11347257",
-    "doi": "#",
+    "conference": " IEEE PKIA 2025 International Conference on Public Key Infrastructure and its Applications,  Bangalore, India, September 5-6, 2025.",
+    "doi": "https://doi.org/10.1109/PKIA67529.2025.11347257",
     "year": "2025",
     "domain": ["Quantum","Networks"],
     "selective": true   
@@ -146,8 +146,8 @@
      {
     "title": "Next-Generation 5G Mobile Hotspot: AI-Powered Traffic Optimization and Enhanced User Control",
     "author": "Madhan Raj Kanagarathinam, Khuong N. Nguyen, Jayendra Reddy Kovvuri, Yuming Zhu, Jong-Mu Choi, Ankit Vakil, Sukhdeep Singh, and Gunasekaran Raja",
-    "conference": "IEEE ICC 2024 International Conference on Communications, Montreal, Canada,  June 8-12, 2025., DOI: 10.1109/ICC52391.2025.11161397 ",
-    "doi": "#",
+    "conference": "IEEE ICC 2024 International Conference on Communications, Montreal, Canada,  June 8-12, 2025.",
+    "doi": "https://doi.org/10.1109/ICC52391.2025.11161397",
     "year": "2025",
     "domain": ["Networks"],
     "selective": true   
