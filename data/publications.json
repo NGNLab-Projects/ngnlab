@@ -1,4 +1,22 @@
 [
+     {
+    "title": "Real-Time Adaptive Transport Layer Optimization for V2X Communication",
+    "author": "Gunasekaran Raja, Karthikeyan Arunachalam, Shivani Suresh, Shruthi Narendran",
+    "conference": "IEEE Transactions on Vehicular Technology, (Accepted)",
+    "doi": "#",
+    "year": "2026",
+    "domain": ["AV"],
+    "selective": true   
+    },  
+     {
+    "title": "Decentralizing Land Registry Infrastructure: Consumer-Run Shared Blockchain for Sustainable Agricultural Applications",
+    "author": "Gunasekaran Raja, Sai Ganesh Senthivel, Selva Ragul Kumar, Pronoy Kundu, Mohammad Tabrez Quasim, Kapal Dev",
+    "conference": "IEEE Transactions on Consumer Electronics, (Accepted)",
+    "doi": "#",
+    "year": "2026",
+    "domain": ["UAV"],
+    "selective": true   
+    },  
      
      {
     "title": "Graph Attention-Driven Distributional Deep Reinforcement Learning for Collaborative Multi-AAV Navigation",
