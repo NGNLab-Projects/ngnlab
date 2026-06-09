@@ -121,6 +121,11 @@ function displayAwards() {
 displayAwards()
 let paperPresentations = [
     {
+        title: "FLAIR: Fuzzy Logic-Based Aerial Intelligent Routing for Efficient Disaster Relief Operations",
+        conference: "IEEE ICC 2026",
+        country: "Glasgow, UK"
+    },
+    {
         title: "Advanced Cognitive System for Reliable Lane Switch Prediction in Autonomous Vehicles",
         conference: "IEEE FNWF 2024",
         country: "Dubai, UAE"
@@ -207,6 +212,11 @@ function displayPapers() {
 displayPapers()
 let invitedTalks = [ 
      {
+        title: "Visiting Researcher:",
+        location: "Department of Computer Science, Munster Technological University, Ireland",
+        date: "June 22-29, 2025 and May 21-27, 2026"
+    },
+     {
         title: "Invited Visit:",
         location: "Faculty of Computer Science and Information Technology, Universiti Malaya, Malaysia",
         date: "November 21, 2025"
@@ -215,11 +225,6 @@ let invitedTalks = [
         title: "International External Advisor:",
         location: "Department of Electrical and  Electronics Engineering, Universiti Teknologi Petronas, Malaysia",
         date: " October 16-20, 2023 and November 17-21, 2025"
-    },
-    {
-        title: "Visiting Researcher:",
-        location: "Department of Computer Science, Munster Technological University, Ireland",
-        date: "June 22-29, 2025"
     },
     {
         title: "Intelligent Autonomous UAV Navigation under Partially Observable Spaces",
