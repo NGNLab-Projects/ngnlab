@@ -1,5 +1,17 @@
 [
        {
+    "title": "NGNLab papers were presented at the IEEE ICC 2026 conference in Glasgow, UK",
+    "about": "Papers 'FLAIR: Fuzzy Logic-Based Aerial Intelligent Routing for Efficient Disaster Relief Operations' co-authored by Gunasekaran Raja, Selva Ragul Kumar, Mugundh Jambukeswaran Bhooma, Selvam Essaky, Ganesh Veeramani, Kapal Dev, and  'Hybrid Intelligent Delay-Aware Active Queue Management Framework for 6G Communications' co-authored by Gunasekaran Raja, Karthikeyan Arunachalam, Ganesh Veeramani, Ananyapriya Punugu Venkata, Dakshina Sundari Sethu, Priyadharshani Periyasamy, Subhasini Paulpand were presented in 2026 IEEE ICC International Conference on Communications, May 24-28, 2026, in Glasgow, UK.",
+    "images": [
+      "./assets/img/Glasgow1.jpeg",
+      "./assets/img/Glasgow2.jpeg",
+      "./assets/img/Glasgow3.jpeg",
+      "./assets/img/Glasgow4.jpeg",
+      "./assets/img/Glasgow5.jpeg"
+    ],
+    "year": 2026
+    },
+       {
     "title": "International External Advisory Visit to Universiti Teknologi PETRONAS (UTP)",
     "about": "Gunasekaran Raja from NGNLab is serving as an International External Advisor for Universiti Teknologi PETRONAS (UTP), Malaysia, from April 2023 to June 2027. As part of this role, he visited UTP in October 2023 and November 2025 to evaluate the Bachelor of Computer Engineering (Hons) programme. Working alongside 12 international experts, he reviewed the curriculum, teaching–learning delivery, industrial internship structure, assessment standards, facilities, and academic resources in line with global trends. He also interacted with students, faculty members, management, alumni, and industry partners to gather comprehensive insights. His findings and recommendations were presented to the academic committee.",
     "images": [
