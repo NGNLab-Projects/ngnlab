@@ -1,22 +1,4 @@
-[
-    {
-    "title": "QuASAAR: Quantum Assisted Slice Aware Allocation of Resources for Multi-Objective UPF Placement in 6G Core Networks",
-    "author": "Gunasekaran Raja, Hari Krishna Ponnuswamy, Dakshina Sundari Sethu, Janani Alagar Ramanujam, Suraj Natarajan, Paventhan Arumugam, Nishant Saurabh, Shantenu Jha",
-    "conference": "IEEE LCN 2026 The 51st International Conference on Local Computer Networks, Coimbra, Portugal, Oct 7-9, 2026",
-    "doi": "#",
-    "year": "2026",
-    "domain": ["UAV"],
-    "selective": true   
-    },  
-    {
-    "title": "Securing East-West Traffic in 5G Core with Hybrid Post-Quantum Cryptography over TLS 1.3",
-    "author": "Gunasekaran Raja, Pooja Vetriselvan, Suganthi Mani, Janani Alagar Ramanujam, Keethi Parthipan, Paventhan Arumugam",
-    "conference": "IEEE APANConf 2026, International Conference on Advanced Network Technologies and Applications, Auckland, New Zealand, Aug 10-14, 2026",
-    "doi": "#",
-    "year": "2026",
-    "domain": ["UAV"],
-    "selective": true   
-    },  
+[  
     {
     "title": "Decentralizing Land Registry Infrastructure: Consumer-Run Shared Blockchain for Sustainable Agricultural Applications",
     "author": "Gunasekaran Raja, Sai Ganesh Senthivel, Selva Ragul Kumar, Pronoy Kundu, Mohammad Tabrez Quasim, Kapal Dev",
@@ -61,6 +43,24 @@
     "doi": "https://doi.org/10.1109/CCNC65079.2026.11366373",
     "year": "2026",
     "domain": ["Networks"],
+    "selective": true   
+    },
+    {
+    "title": "QuASAAR: Quantum Assisted Slice Aware Allocation of Resources for Multi-Objective UPF Placement in 6G Core Networks",
+    "author": "Gunasekaran Raja, Hari Krishna Ponnuswamy, Dakshina Sundari Sethu, Janani Alagar Ramanujam, Suraj Natarajan, Paventhan Arumugam, Nishant Saurabh, Shantenu Jha",
+    "conference": "IEEE LCN 2026 The 51st International Conference on Local Computer Networks, Coimbra, Portugal, Oct 7-9, 2026",
+    "doi": "#",
+    "year": "2026",
+    "domain": ["UAV"],
+    "selective": true   
+    },  
+    {
+    "title": "Securing East-West Traffic in 5G Core with Hybrid Post-Quantum Cryptography over TLS 1.3",
+    "author": "Gunasekaran Raja, Pooja Vetriselvan, Suganthi Mani, Janani Alagar Ramanujam, Keethi Parthipan, Paventhan Arumugam",
+    "conference": "IEEE APANConf 2026, International Conference on Advanced Network Technologies and Applications, Auckland, New Zealand, Aug 10-14, 2026",
+    "doi": "#",
+    "year": "2026",
+    "domain": ["UAV"],
     "selective": true   
     },
     {
