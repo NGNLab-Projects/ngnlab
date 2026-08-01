@@ -9,7 +9,7 @@
     "selective": true   
     },  
      
-     {
+    {
     "title": "Graph Attention-Driven Distributional Deep Reinforcement Learning for Collaborative Multi-AAV Navigation",
     "author": "Selvam Essaky, Gunasekaran Raja, Harun Siljak",
     "conference": "IEEE Transactions on Vehicular Technology, DOI: 10.1109/TVT.2026.3687762",
@@ -18,6 +18,15 @@
     "domain": ["UAV"],
     "selective": true   
     },  
+    {
+    "title": "AIRA: Adaptive Intelligent Resource Allocation Framework for Integrated Sensing and Communication in O-RAN",
+    "author": "Gunasekaran Raja, Karthikeyan Arunachalam, Ganesh Veeramani, Hirthik Raj Anandh, Sachin Senthilvel Kaliyannan, Kapal Dev",
+    "conference": "IEEE GLOBECOM 2025 Global Communications Conference, Macau, China, Dec. 7-11, 2026",
+    "doi": "#",
+    "year": "2026",
+    "domain": ["UAV"],
+    "selective": true   
+    }, 
     {
     "title": "A Hybrid Intelligent Delay-Aware Active Queue Management Framework for 6G Communications",
     "author": "Gunasekaran Raja, Karthikeyan Arunachalam, Ganesh Veeramani, Ananyapriya Punugu Venkata, Dakshina Sundari Sethu, Priyadharshani Periyasamy, Subhasini Paulpandi",
