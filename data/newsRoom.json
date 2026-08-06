@@ -1,5 +1,22 @@
 [
-       {
+      {
+    "title": "Prof. Vincent Ryan from Munster Technological University (MTU), Ireland, Visits NGNLab",
+    "about": "As part of the Erasmus+ Staff Mobility Programme, Prof. Vincent Ryan, Senior Lecturer in Computer Science and Programme Leader for the Master's in Cybersecurity at Munster Technological University (MTU), Ireland, visited NGNLab and the Department of Computer Technology, Anna University, from 3rd to 7th August 2026. During his visit, he interacted with faculty members, researchers, and students, sharing insights into cybersecurity education, postgraduate studies, and emerging research directions in network security, digital forensics, penetration testing, cryptography, and software security. The visit also focused on strengthening academic and research collaborations, promoting faculty and student mobility under the Erasmus+ programme, exploring joint research initiatives, and fostering long-term partnerships between MTU and Anna University in cybersecurity and next-generation communication technologies.",
+    "images": [
+      "./assets/img/prof_Vincent_1.png",
+      "./assets/img/prof_Vincent_2.png"
+    ],
+    "year": 2026
+    },     
+        {
+    "title": "NGNLab Research Intern Hari Krishna to Present Paper at IEEE LCN 2026, Portugal",
+    "about": "Hari Krishna Ponnuswamy, Research Intern at NGNLab, Anna University, will present the paper 'QuASAAR: Quantum-Assisted Slice-Aware Allocation of Resources for Multi-Objective UPF Placement in 6G Core Networks' at the 51st IEEE Conference on Local Computer Networks (LCN 2026), to be held in Coimbra, Portugal, from October 7–9, 2026. The paper, accepted for presentation at the prestigious IEEE LCN 2026, is the result of an international collaboration between NGNLab, Anna University, Princeton Plasma Physics Laboratory (PPPL), USA, and Utrecht University, The Netherlands. The paper is co-authored by Gunasekaran Raja, Hari Krishna Ponnuswamy, Dakshina Sundari Sethu, Janani Alagar Ramanujam, Suraj Natarajan, Paventhan Arumugam, Nishant Saurabh, and Shantenu Jha.",
+    "images": [
+      "./assets/img/people/Hari.png"
+    ],
+    "year": 2026
+    },
+      {
     "title": "NGNLab papers were presented at the IEEE ICC 2026 conference in Glasgow, UK",
     "about": "Papers 'FLAIR: Fuzzy Logic-Based Aerial Intelligent Routing for Efficient Disaster Relief Operations' co-authored by Gunasekaran Raja, Selva Ragul Kumar, Mugundh Jambukeswaran Bhooma, Selvam Essaky, Ganesh Veeramani, Kapal Dev, and  'Hybrid Intelligent Delay-Aware Active Queue Management Framework for 6G Communications' co-authored by Gunasekaran Raja, Karthikeyan Arunachalam, Ganesh Veeramani, Ananyapriya Punugu Venkata, Dakshina Sundari Sethu, Priyadharshani Periyasamy, Subhasini Paulpand were presented in 2026 IEEE ICC International Conference on Communications, May 24-28, 2026, in Glasgow, UK.",
     "images": [
