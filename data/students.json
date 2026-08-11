@@ -37,7 +37,7 @@
         "mail": "saravananlogeshwaran3@gmail.com",
         "batch": "2022-2026",
         "currentPosition": "UG - Research Intern",
-        "year": "present"
+        "year": "alumni"
     },
       {
         "img": "./assets/img/people/nehaselvamani.jpg",
@@ -50,7 +50,7 @@
         "mail": "mail2nehaselva@gmail.com ",
         "batch": "2022-2026",
         "currentPosition": "UG - Research Intern",
-        "year": "present"
+        "year": "alumni"
     }, 
      {
         "img": "./assets/img/people/sahana.jpg",
@@ -63,7 +63,7 @@
         "mail": "ssahana02114@gmail.com",
         "batch": "2022-2026",
         "currentPosition": "UG - Research Intern",
-        "year": "present"
+        "year": "alumni"
     }, 
     {
         "img": "./assets/img/people/bose.jpg",
@@ -76,14 +76,14 @@
         "mail": "boseb1274@gmail.com",
         "batch": "2022-2026",
         "currentPosition": "UG - Research Intern",
-        "year": "present"
+        "year": "alumni"
     }, 
     
       
         {
         "img": "./assets/img/people/Pronoy.jpg",
         "name": "Pronoy Kundu",
-        "domain": "UAV",
+        "domain": "Networks",
         "domainWorked": "Networks",
         "facebook": "#",
         "twitter": "#",
@@ -534,7 +534,7 @@
         "mail": "sanjeevananth2211@gmail.com",
         "batch": "UG: 2022-2026",
         "currentPosition": "UG - Research Intern",
-        "year": "present"
+        "year": "alumni"
     },
      {
         "img": "./assets/img/people/KrithikaR.jpg",
@@ -547,7 +547,7 @@
         "mail": "krithikaravishankar4@gmail.com",
         "batch": "UG: 2022-2026",
         "currentPosition": "UG - Research Intern",
-        "year": "present"
+        "year": "alumni"
     },
       
     {
@@ -575,7 +575,7 @@
         "mail": "sachinsenthilvel2005@gmail.com",
         "batch": "2022-2026",
         "currentPosition": "UG - Research Intern",
-        "year": "present"
+        "year": "alumni"
     }, 
     {
         "img": "./assets/img/people/hrithikraj.jpg",
@@ -588,7 +588,7 @@
         "mail": "a.hirthikraj@gmail.com",
         "batch": "2022-2026",
         "currentPosition": "UG - Research Intern",
-        "year": "present"
+        "year": "alumni"
     },
     {
         "img": "./assets/img/people/santhoshkumart.jpeg",
@@ -601,7 +601,7 @@
         "mail": "santhosht@setsindia.net",
         "batch": "2025-present",
         "currentPosition": "PhD Scholar",
-        "year": "present"
+        "year": "alumni"
     },
     {
         "img": "./assets/img/people/JananiA.jpg",
@@ -614,7 +614,7 @@
         "mail": "jananialagar.2410@gmail.com",
         "batch": "UG: 2022-2026",
         "currentPosition": "UG - Research Intern",
-        "year": "present"
+        "year": "alumni"
     },
     {
         "img": "./assets/img/people/TejesshreeS.jpg",
@@ -627,7 +627,7 @@
         "mail": "gowrikavinraja@gmail.com",
         "batch": "UG: 2022-2026",
         "currentPosition": "UG - Research Intern",
-        "year": "present"
+        "year": "alumni"
     },
     
    {
@@ -766,6 +766,19 @@
         "year": "passout"
     },
     {
+        "img": "./assets/img/people/Pooja_V.jpg",
+        "name": "Pooja V",
+        "domain": "#",
+        "domainWorked": "Web-Team",
+        "facebook": "#",
+        "twitter": "#",
+        "linkedin": "https://www.linkedin.com/in/pooja-vetri-5a2551326/",
+        "mail": "poojavetri43@gmail.com",
+        "batch": "UG: 2023-2027",
+        "currentPosition": "UG - Research Intern",
+        "year": "others"
+    },
+    {
         "img": "./assets/img/people/shubhakarini.png",
         "name": "Shubhakarini",
         "domain": "MIoT",
@@ -775,7 +788,7 @@
         "linkedin": "https://www.linkedin.com/in/shubhakarini-s-251a4a289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "mail": "shubhakarini.in@gmail.com",
         "batch": "UG: 2022-2026",
-        "currentPosition": "uG - Research Intern",
+        "currentPosition": "UG - Research Intern",
         "year": "others"
     },  
     {
